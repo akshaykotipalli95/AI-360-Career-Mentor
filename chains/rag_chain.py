@@ -7,7 +7,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 FAISS_STORE_PATH = "storage/faiss_index"
 # Your Gemini API key is placed directly here
-GEMINI_API_KEY = "GEMINI_API_KEY"
+GEMINI_API_KEY = "YOUR_GEMINI_API_KEY"
 
 class CareerRAGChain:
     def __init__(self):
