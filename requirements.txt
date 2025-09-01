@@ -9,3 +9,8 @@ faiss-cpu
 pypdf
 python-dotenv
 tiktoken
+python-docx
+pytesseract
+Pillow
+openpyxl
+python-pptx
